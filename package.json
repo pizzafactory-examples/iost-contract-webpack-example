@@ -3,6 +3,7 @@
     "build": "webpack"
   },
   "devDependencies": {
+    "@types/iost-contract": "^3.4.0",
     "webpack": "^4.30.0",
     "webpack-cli": "^3.3.1"
   },
