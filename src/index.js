@@ -1,3 +1,3 @@
 const hello = require('./HelloWorld');
 
-module.export = hello;
+module.exports = hello;
