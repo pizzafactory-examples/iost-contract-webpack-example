@@ -1,5 +1,9 @@
 # iost-contract-webpack-example
 
+## Status
+
+Pre-release.
+
 ## How to...
 
 Install webpack related modules.
